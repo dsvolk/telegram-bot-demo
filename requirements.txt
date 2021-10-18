@@ -1,0 +1,10 @@
+black
+pylint
+pytest
+click
+python-telegram-bot
+python-decouple
+pandas
+numpy
+mypy
+pydantic
